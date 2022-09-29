@@ -23,3 +23,15 @@
     - **Task 4** : Create Model
     - **Task 5** : Train the Model
     - **Task 6** : Final Predictions
+
+
+
+---
+
+# Output :
+
+### Final Output
+![output_showcase](output.png)
+
+### Neural Network 
+![Neural Network Architecture](Network_Architecture.png)
