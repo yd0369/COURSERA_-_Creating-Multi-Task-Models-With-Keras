@@ -1,10 +1,5 @@
 # Coursera - Creating Multi Task Models With Keras
 
-## Project-based Course Overview
-### Creating Multi Task Models with Keras
-- This is a project-based course which should take less than 2 hours to finish. 
-- Before diving into the project, please take a look at the course objectives and structure:
-
 #### Course Objectives
 - In this course, our primary learning objective is to create and train a multi task model with Keras.
 
