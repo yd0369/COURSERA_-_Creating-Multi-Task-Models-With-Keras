@@ -31,7 +31,7 @@
 # Output :
 
 ### Final Output
-![output_showcase](output.png)
+![output_showcase](output_showcase.png)
 
 ### Neural Network 
 ![Neural Network Architecture](Network_Architecture.png)
